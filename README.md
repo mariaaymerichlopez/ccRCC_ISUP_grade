@@ -5,7 +5,7 @@ This repository contains the Jupyter Notebook developed for the classification o
 
 ---
 
-## 📂 Data Availability
+## Data Availability
 
 The dataset used in this study is not publicly available due to institutional and ethical restrictions.  
 As a result, the notebook will not execute correctly unless the user provides a compatible dataset matching the expected structure and variable names.
@@ -13,3 +13,7 @@ As a result, the notebook will not execute correctly unless the user provides a 
 **Data Loading Placeholder:**
 ```python
 df_MRS = pd.read_csv("your_data.csv")  # Replace "your_data.csv" with your own dataset
+
+or
+
+df_MRS=pd.read_excel("Database.xlsx",sheet_name="Sheet1")
