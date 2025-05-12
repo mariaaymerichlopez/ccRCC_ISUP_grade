@@ -1,5 +1,5 @@
 # ccRCC_ISUP_grade
-Radiomics-Based Classification of Clear Cell Renal Cell Car-cinoma ISUP Grade: A Machine Learning Approach with SHAP-Enhanced Explainability
+Radiomics-Based Classification of Clear Cell Renal Cell Carcinoma ISUP Grade: A Machine Learning Approach with SHAP-Enhanced Explainability
 
 This repository contains the Jupyter Notebook developed for the classification of ISUP grade in renal cell carcinoma using radiomics features and machine learning models, including Support Vector Machines (SVM), Random Forest, and Logistic Regression. The pipeline supports performance evaluation through various metrics and ROC curve analysis.
 
